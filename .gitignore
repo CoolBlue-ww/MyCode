@@ -1,0 +1,44 @@
+# 通用忽略规则
+#*.log
+#*.tmp
+#*.bak
+#*.swp
+#.DS_Store
+#Thumbs.db
+
+
+# IDE
+#.vscode/
+#!.vscode/settings.json
+#!.vscode/task.json
+#!.vscode/launch.json
+
+# PyCharm/DataGrip
+#.idea/
+#*.iml
+#*.ipr
+#*.iws
+
+
+# Jupyter Notebook
+#.ipynb_checkpoints/
+
+
+# 编译文件
+#*.o
+#*.exe
+#*.out
+#*.pyc
+#__pycache__
+
+
+# 依赖目录
+#ven/
+#env/
+#.venv/
+
+
+
+
+
+
