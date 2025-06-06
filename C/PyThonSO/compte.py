@@ -18,7 +18,7 @@ result = lib.compte()
 
 end_time = time.time()
 
-print(f"利用法语言通过for循环计算1到100累加的和为：{result}，累积用时：{end_time - start_time}秒。")
+print(f"利用C语言通过for循环计算1到100累加的和为：{result}，累积用时：{end_time - start_time}秒。")
 
 
 total = 0
